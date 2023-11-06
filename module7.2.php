@@ -1,4 +1,32 @@
 <?php
+    /*
+    String Rotation
+    
+    Problem Statement
+    Write a program in c++ to create a function that checks if one string is a rotation of another. For example, "waterbottle" is a rotation of "erbottlewat" because you can rotate it to get the original string.
+    
+    Input
+    The input consists of two strings.
+    
+    Output
+    The output will print either "True" or "False".
+    
+    Constraints
+    0 ≤ |S| ≤ 10000
+    Example:
+    Enter strings
+    
+    Input:
+    waterbottle erbottlewat
+    Output:
+    True
+    Notes:
+    None
+    */
+
+
+
+
     # Write your PHP code from here
     fscanf(STDIN, "%s %s", $str1, $str2);
 
